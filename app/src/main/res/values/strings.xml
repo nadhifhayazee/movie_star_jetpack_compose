@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie Star</string>
+    <string name="menu_movie">Movie</string>
+    <string name="menu_watchlist">Watchlist</string>
+    <string name="menu_about">About</string>
+
+
+    <string name="popular_movie_title">Popular Movie</string>
+    <string name="upcoming_movie_title">Upcoming Movie</string>
+    <string name="top_rated_movie_title">Top Rated Movie</string>
+    <string name="recommendation_movie_title">Recommendation Movie</string>
+
+    <string name="share_movie_message">Hi, I recommend you to watch %1$s\n %2$s.\n Happy Watching :)</string>
+
+    <string name="no_movie_found">No movies found!</string>
+    <string name="search_placeholder">Search movie</string>
+
+    <string name="search_movie_cd">Search Movie</string>
+    <string name="show_more_movie_cd">Show more movie</string>
+    <string name="my_photo_cd">Developer photo</string>
+    <string name="social_media_icon_cd">Social media icon</string>
+    <string name="back_button_cd">Back button</string>
+    <string name="clear_query_cd">Clear query search</string>
+    <string name="no_found_icon_cd">Image not found</string>
+    <string name="btn_share_cd">Share movie</string>
+    <string name="icon_is_watchlist_cd">Icon is watchlist</string>
+
+    <string name="share">Share</string>
+    <string name="my_name">Nadhif Hayazee</string>
+    <string name="my_email">nadhifhayazee@gmail.com</string>
+    <string name="my_github">https://github.com/nadhifhayazee</string>
+</resources>
